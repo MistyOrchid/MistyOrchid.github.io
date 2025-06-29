@@ -8,22 +8,22 @@ lang: zh_CN
 timezone: Asia/Shanghai
 
 
-title: Sonnenlicht
+title: MistyOrchid
 
 tagline: Development Blog
 
 description: >
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
-url: "https://sonnenlicht-as.github.io"
+url: "https://mistyorchid.github.io"
 
 github:
-  username: Sonnenlicht-as
+  username: MistyOrchid
 
 social:
-  name: Sonnenlicht
+  name: MistyOrchid
   links:
-    - https://github.com/Sonnenlicht-as
+    - https://github.com/MistyOrchid
 
 
 theme_mode: # [light | dark]
